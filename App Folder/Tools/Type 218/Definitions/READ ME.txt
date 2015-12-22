@@ -1,0 +1,3 @@
+Application critical definition specificaly for this type of tool.
+
+Do not edit, delete or replace. Any change must be done by Mar-In.

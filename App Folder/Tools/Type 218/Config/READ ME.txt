@@ -1,0 +1,3 @@
+Configuration filesspecific for this tool. All settings are editable from inside the program.
+
+Do not edit manually.

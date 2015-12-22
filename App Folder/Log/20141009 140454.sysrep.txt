@@ -1,0 +1,95 @@
+.
+
+  System Name:      PCM2-OOS
+  System Man.:      Dell Inc.
+  System Model:     Precision M6700
+  Domain:           MARINE.local
+  User:             MARINE\oos
+  Total Phys. Mem:  8526577664
+  Avail. Phys. Mem: 1490872
+  Total Virt. Mem:  16651608
+  Avail. Virt. Mem: 8510368
+  OS Name:          Microsoft Windows 7 Professional |C:\Windows|\Device\Harddisk0\Partition3
+  Version:          6.1.7601 SP: 1.0
+ 
+  Part Numb.:       
+  Serial Numb.:     1ZN97W1
+  Asset tag.:       
+ 
+  Numb. CPU(s):     1
+  CPU Name:         Intel(R) Core(TM) i7-3740QM CPU @ 2.70GHz
+    CPU Desc:       Intel64 Family 6 Model 58 Stepping 9
+    L2 Cache:       1024 
+    Clock speed:    2701 (2701)
+    Ext. Clock:     100
+    CPU Cores:      4
+    Logical CPUs:   8
+    CPU Version:    Rev: 14857
+ 
+  Adapter:          Intel(R) 82579LM Gigabit Network Connection
+    Mac Addr.:      D4:BE:D9:75:94:DB
+    IP Address:     192.168.93.98
+    IP Gateway:     192.168.93.1
+    IP Subnet:      255.255.255.0
+  Adapter:          Intel(R) 82579LM Gigabit Network Connection
+    Mac Addr.:      D4:BE:D9:75:94:DB
+    IP Address:     fe80::3da9:f71c:b692:d80d
+    IP Subnet:      64
+  Adapter:          Intel(R) Centrino(R) Ultimate-N 6300 AGN
+    Mac Addr.:      24:77:03:D5:D1:74
+    IP Address:     10.20.30.102
+    IP Gateway:     10.20.30.1
+    IP Subnet:      255.255.255.0
+  Adapter:          Intel(R) Centrino(R) Ultimate-N 6300 AGN
+    Mac Addr.:      24:77:03:D5:D1:74
+    IP Address:     fe80::6dd3:1899:f381:944
+    IP Subnet:      64
+ 
+  Drive: SAMSUNG SSD PM830 2.5" 7
+    DeviceID:  (\\.\PHYSICALDRIVE0)
+    Serial no:       0SZTSNCA184169
+    C:              Disk #0, Partition #2    F04C693E    NTFS    OS
+  Drive: ST1000LM024 HN-M101MBB
+    DeviceID:  (\\.\PHYSICALDRIVE1)
+    Serial no:       2SZW9JC0088377
+    D:              Disk #1, Partition #0    CC5812A1    NTFS    DATAPART1
+ 
+  Port Name:         ECP-skriverport (LPT1)
+    Manufacturer:    (Standard porttyper)
+    Device ID:       ACPI\PNP0401\5
+    Driver Provider: Microsoft
+    Driver Version:  6.1.7600.16385
+    INF Name:        msports.inf
+    Is Signed:       Sann
+  Port Name:         Kommunikasjonsport (COM1)
+    Manufacturer:    (Standard porttyper)
+    Device ID:       ACPI\PNP0501\0
+    Driver Provider: Microsoft
+    Driver Version:  6.1.7600.16385
+    INF Name:        msports.inf
+    Is Signed:       Sann
+  Port Name:         USB Serial Port (COM15)
+    Manufacturer:    FTDI
+    Device ID:       FTDIBUS\VID_0403+PID_6001+A60070Z3A\0000
+    Driver Provider: FTDI
+    Driver Version:  2.8.30.0
+    INF Name:        oem173.inf
+    Is Signed:       Sann
+  Port Name:         NI USB-485/1 SN:CBBEBA, Communications Port (COM13)
+    Manufacturer:    National Instruments
+    Device ID:       NISERU\USB485X1_1\6&E239B32&0&1
+    Driver Provider: National Instruments
+    Driver Version:  3.9.0.49154
+    INF Name:        oem92.inf
+    Is Signed:       Usann
+ 
+SYSTEM ITEMS WITH ISSUES:
+ 
+  Description:      
+    Error Code:     18
+    Class GUID:     {6bdd1fc6-810f-11d0-bec7-08002be2092f}
+    Device ID:      ROOT\IMAGE\0001
+    Manufacturer:   Creative Technology Ltd.
+    Name:           
+    PNP Device ID:  ROOT\IMAGE\0001
+    Service:

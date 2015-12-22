@@ -1,0 +1,7 @@
+Configuration files and  application critical definitions.
+
+Each type of tool will have common settings. 
+
+Each unit will also have settings asosiated with it.
+
+Do not edit manually.

@@ -1,0 +1,5 @@
+Configuration and tracking information for each unit.
+
+All settings are editable from inside the program.
+
+Do not edit manualy.
